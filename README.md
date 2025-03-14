@@ -23,6 +23,8 @@ Claude Sonnet helped me develop this.
 
 Pretty simple: 
 First activate the virtual environment `finance_env\Scripts\activate`
+
 Then load the bank account statement in the same folder, change the name of the file accordingly and call the `python3 ./script_finance.py` script and check the Excel spreadsheet at the end.
+
 It works for my statement but I don't think it will work for yours.
 I made this for me. :)
